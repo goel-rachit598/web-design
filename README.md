@@ -1,8 +1,4 @@
-# web-design (Learning Basics of Web Development) :
-Using HTML
-
-Using CSS
-
-Using JS
-
-Using PHP
+# web-design
+This repo cosnists of Web Designs made with CSS, HTML, JavaScript and Angular JS.
+Web design encompasses many different skills and disciplines in the production and maintenance of websites. The different areas of web design include web graphic design; interface design; authoring, including standardised code and proprietary software; user experience design; and search engine optimization.
+There are two primary jobs involved in creating a website: the web designer and web developer, who often work closely together on a website.The web designers are responsible for the visual aspect, which includes the layout, coloring and typography of a web page. Web designers will also have a working knowledge of markup languages such as HTML and CSS, although the extent of their knowledge will differ from one web designer to another. Particularly in smaller organizations one person will need the necessary skills for designing and programming the full web page, while larger organizations may have a web designer responsible for the visual aspect alone.
